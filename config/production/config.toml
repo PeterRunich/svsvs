@@ -1,0 +1,2 @@
+baseurl = "https://github.com/PeterRunich/hugo/"
+canonifyURLs = true

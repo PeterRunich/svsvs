@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://github.com/PeterRunich/hugo/sitemap.xml
+Sitemap: https://peterrunich.github.io/svsvs/sitemap.xml
